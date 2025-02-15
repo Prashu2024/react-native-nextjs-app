@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "NextJS WebView App",
+    "slug": "nextjs-webview-app",
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.example.nextjswebview",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.nextjswebview"
+    }
+  }
+}
