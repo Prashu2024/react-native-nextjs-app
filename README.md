@@ -46,6 +46,12 @@ A cross-platform React Native application that embeds a Next.js web application 
     ```bash
     npx expo start --ios
 
+## Deployment
+1. The Next.js web app used for rendering the pages is deployed on Vercel. You can access it here: [Next.js Deployment Link](https://nextjs-user-details.vercel.app/)
+
+2. The React Native WebView app is deployed to the web (as part of this project) and can be accessed at: [React Native WebView (Web) Deployment Link](https://react-native-nextjs-app.vercel.app/)
+
+
 ## Project Structure
     nextjs-webview-app/
     ├── App.tsx                # Main application component
